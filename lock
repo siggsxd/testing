@@ -81,7 +81,7 @@ local themeStyles = {
         SchemeColor = Color3.fromRGB(125, 22, 98),
         Background = Color3.fromRGB(61, 18, 50),
         Header = Color3.fromRGB(115, 115, 115),
-        TextColor = Color3.fromRGB(255,255,255),
+        TextColor = Color3.fromRGB(255, 0, 247),
         ElementColor = Color3.fromRGB(74, 58, 84)
     },
     Ocean = {
@@ -102,7 +102,7 @@ local themeStyles = {
         SchemeColor = Color3.fromRGB(230, 35, 69),
         Background = Color3.fromRGB(32, 32, 32),
         Header = Color3.fromRGB(24, 24, 24),
-        TextColor = Color3.fromRGB(119, 209, 138),
+        TextColor = Color3.fromRGB(255, 0, 247),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Synapse = {
